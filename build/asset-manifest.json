@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aceb6a33.chunk.css",
+    "main.js": "/static/js/main.433b3f18.chunk.js",
+    "main.js.map": "/static/js/main.433b3f18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d575dc6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d575dc6.js.map",
+    "static/css/2.2f2e66c6.chunk.css": "/static/css/2.2f2e66c6.chunk.css",
+    "static/js/2.b320d0dd.chunk.js": "/static/js/2.b320d0dd.chunk.js",
+    "static/js/2.b320d0dd.chunk.js.map": "/static/js/2.b320d0dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.74078fccddcb791ce767417495e57c3b.js": "/precache-manifest.74078fccddcb791ce767417495e57c3b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2f2e66c6.chunk.css.map": "/static/css/2.2f2e66c6.chunk.css.map",
+    "static/css/main.aceb6a33.chunk.css.map": "/static/css/main.aceb6a33.chunk.css.map",
+    "static/js/2.b320d0dd.chunk.js.LICENSE.txt": "/static/js/2.b320d0dd.chunk.js.LICENSE.txt",
+    "static/media/Parking-Information.png": "/static/media/Parking-Information.0c883f75.png",
+    "static/media/cusService.png": "/static/media/cusService.744e30b9.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/payment.jpeg": "/static/media/payment.83814cc1.jpeg",
+    "static/media/reservation.png": "/static/media/reservation.4abe3c5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d575dc6.js",
+    "static/css/2.2f2e66c6.chunk.css",
+    "static/js/2.b320d0dd.chunk.js",
+    "static/css/main.aceb6a33.chunk.css",
+    "static/js/main.433b3f18.chunk.js"
+  ]
+}
